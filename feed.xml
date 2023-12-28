@@ -3,12 +3,24 @@
     <title>amyxliu</title>
     <link href="https://amyxliu.github.io/feed.xml" rel="self" />
     <link href="https://amyxliu.github.io" />
-    <updated>2023-12-27T15:57:37-08:00</updated>
+    <updated>2023-12-27T17:41:06-08:00</updated>
     <author>
         <name>Amy Liu</name>
     </author>
     <id>https://amyxliu.github.io</id>
 
+    <entry>
+        <title>sit tight, content coming.</title>
+        <author>
+            <name>Amy Liu</name>
+        </author>
+        <link href="https://amyxliu.github.io/sit-tight-content-coming/"/>
+        <id>https://amyxliu.github.io/sit-tight-content-coming/</id>
+
+        <updated>2023-12-27T17:41:06-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>hi, i&#x27;m amy</title>
         <author>
@@ -17,30 +29,18 @@
         <link href="https://amyxliu.github.io/hi-im-amy/"/>
         <id>https://amyxliu.github.io/hi-im-amy/</id>
 
-        <updated>2023-12-27T15:57:37-08:00</updated>
+        <updated>2023-12-27T17:36:04-08:00</updated>
             <summary>
                 <![CDATA[
-                    welcome to my personal website. I am a third year graduate student at UW in the Department of Atmospheric Sciences advised by Abby Swann in the Ecoclimate Lab. My research interests are plant-climate interactions and how plants impact atmospheric composition in an urban setting.&nbsp;My recent&hellip;
+                    welcome to my personal website 🌵 Previously, I graduated with a BS in Chemistry from UC Berkeley's College of Chemistry, where I was fortunate to be mentored by Erin Delaria and advised by Ron Cohen. I have interned on the Small Molecule Analytical and Business Insights and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    welcome to my personal website.
-  </p>
-
-  <p>
-    I am a third year graduate student at UW in the <a href="https://atmos.uw.edu/" target="_blank">Department of Atmospheric Sciences</a> advised by <a href="https://atmos.uw.edu/faculty-and-research/core-faculty/abigail-swann/" target="_blank">Abby Swann</a> in the <a href="https://www.atmos.washington.edu/~aswann/LabWebsitePublic/" target="_blank">Ecoclimate Lab</a>. My research interests are plant-climate interactions and how plants impact atmospheric composition in an urban setting.&nbsp;My recent work is on understanding the global plant carbon-water tradeoffs using Earth System Model (ESM) simulations.
-  </p>
-
-  <p>
-    Previously, I graduated with a BS in Chemistry from UC Berkeley's <a href="https://chemistry.berkeley.edu/home">College of Chemistry</a>, where I was fortunate to be mentored by Erin Delaria and advised by <a href="https://cohen.cchem.berkeley.edu/" target="_blank">Ron Cohen</a>. I have interned on the Small Molecule Analytical and Business Insights and Analytics teams at <a href="https://www.gene.com/" target="_blank">Genentech</a>/<a href="https://www.roche.com/" target="_blank">Roche</a>, where my work spanned from conducting early research and development of drugs to supporting the planning of clinical trials. I am grateful to be supported by a <a href="https://www.nsfgrfp.org/" class="" target="_blank">NSF Graduate Research Fellowship</a>.<br>
-  </p>
-
-  <p>
-    
-  </p>
+                <p><span style="color: #bee28e;">welcome to my personal website</span> 🌵</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://amyxliu.github.io/media/posts/2/PXL_20210725_233702665_Original.jpg" alt="" width="400" height="301" sizes="100vw" srcset="https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-xs.jpg 300w ,https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-sm.jpg 480w ,https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-md.jpg 768w ,https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-lg.jpg 1024w ,https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-xl.jpg 1360w ,https://amyxliu.github.io/media/posts/2/responsive/PXL_20210725_233702665_Original-2xl.jpg 1600w"></figure>I am a third year graduate student at UW in the <a href="https://atmos.uw.edu/" target="_blank" rel="noopener">Department of Atmospheric Sciences</a> advised by <a href="https://atmos.uw.edu/faculty-and-research/core-faculty/abigail-swann/" target="_blank" rel="noopener">Abby Swann</a> in the <a href="https://www.atmos.washington.edu/~aswann/LabWebsitePublic/" target="_blank" rel="noopener">Ecoclimate Lab</a>. My research interests are plant-climate interactions and how plants impact atmospheric composition in an urban setting. My recent work is on understanding plant carbon-water tradeoffs using Earth System Model (ESM) simulations.</p>
+<p>Previously, I graduated with a BS in Chemistry from UC Berkeley's <a href="https://chemistry.berkeley.edu/home">College of Chemistry</a>, where I was fortunate to be mentored by Erin Delaria and advised by <a href="https://cohen.cchem.berkeley.edu/" target="_blank" rel="noopener">Ron Cohen</a>. I have interned on the Small Molecule Analytical and Business Insights and Analytics teams at <a href="https://www.gene.com/" target="_blank" rel="noopener">Genentech</a>/<a href="https://www.roche.com/" target="_blank" rel="noopener">Roche</a>, where my work spanned from developing analytical methods for the early drug research to supporting the planning of clinical trials. I am grateful to be supported by a <a href="https://www.nsfgrfp.org/" class="" target="_blank" rel="noopener">NSF Graduate Research Fellowship</a>.</p>
+<p>If you want to reach out to me, please contact me via email (<a href="mailto:amyxliu@uw.edu">amyxliu@uw.edu</a>).</p>
             ]]>
         </content>
     </entry>
