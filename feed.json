@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "amyxliu",
+    "description": "",
+    "home_page_url": "https://amyxliu.github.io",
+    "feed_url": "https://amyxliu.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Amy Liu"
+    },
+    "items": [
+        {
+            "id": "https://amyxliu.github.io/hi-im-amy/",
+            "url": "https://amyxliu.github.io/hi-im-amy/",
+            "title": "hi, i&#x27;m amy",
+            "summary": "welcome to my personal website. I am a third year graduate student at UW in the Department of Atmospheric Sciences advised by Abby Swann in the Ecoclimate Lab. My research interests are plant-climate interactions and how plants impact atmospheric composition in an urban setting.&nbsp;My recent&hellip;",
+            "content_html": "\n  <p>\n    welcome to my personal website.\n  </p>\n\n  <p>\n    I am a third year graduate student at UW in the <a href=\"https://atmos.uw.edu/\" target=\"_blank\">Department of Atmospheric Sciences</a> advised by <a href=\"https://atmos.uw.edu/faculty-and-research/core-faculty/abigail-swann/\" target=\"_blank\">Abby Swann</a> in the <a href=\"https://www.atmos.washington.edu/~aswann/LabWebsitePublic/\" target=\"_blank\">Ecoclimate Lab</a>. My research interests are plant-climate interactions and how plants impact atmospheric composition in an urban setting.&nbsp;My recent work is on understanding the global plant carbon-water tradeoffs using Earth System Model (ESM) simulations.\n  </p>\n\n  <p>\n    Previously, I graduated with a BS in Chemistry from UC Berkeley's <a href=\"https://chemistry.berkeley.edu/home\">College of Chemistry</a>, where I was fortunate to be mentored by Erin Delaria and advised by <a href=\"https://cohen.cchem.berkeley.edu/\" target=\"_blank\">Ron Cohen</a>. I have interned on the Small Molecule Analytical and Business Insights and Analytics teams at <a href=\"https://www.gene.com/\" target=\"_blank\">Genentech</a>/<a href=\"https://www.roche.com/\" target=\"_blank\">Roche</a>, where my work spanned from conducting early research and development of drugs to supporting the planning of clinical trials. I am grateful to be supported by a <a href=\"https://www.nsfgrfp.org/\" class=\"\" target=\"_blank\">NSF Graduate Research Fellowship</a>.<br>\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Amy Liu"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-27T15:51:40-08:00",
+            "date_modified": "2023-12-27T15:57:37-08:00"
+        }
+    ]
+}
